@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aggregates.Model.Class09f335ee290547559b132a24995aae5c" BaseTypeListCollapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAACgAAEgABRgAAACAAAAAAABACAABAQECIAAAA=</HashCode>
+      <FileName>Aggregates.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Aggregates.Model.Classc21d526f79304ce7bc4bde110fd4f606" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kgEiACACAgA4AKAAIAAAAAgAAABGICAAAAAQABYAAAA=</HashCode>
+      <FileName>Aggregates.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Aggregates.Model.Classc555367b57f9489cbfb12cd63e2c13c7" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQGAAIAIAAIAAAQAAQgAAgAACCAACAABAEQAAAAgAA=</HashCode>
+      <FileName>Aggregates.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Propc1610570c7c64c648085f5a1f735314d" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Propc23d369af7e54d7192348200785488a8" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Aggregates.Model.Classfa70f72a95044bfc8d7ab73da8f8a584" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAgAACAQAAAABAIAAEAACAAAAMBAKAEQFICMAgA=</HashCode>
+      <FileName>Aggregates.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Aggregates.Model.Classfb5ce1f050a6403dbe9b7a08635ec78a" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACQAQAAAEAAAAAIAABCABAglAAgBIAAIAQQwAAAAA=</HashCode>
+      <FileName>Aggregates.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Propd1459eb92e9b45c4b5ae0dcefdd6eb99" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Prop758de2b7b466497aa559ff2cd2a66ea7" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Aggregates.Model.RootClassc667e6a8488b4dedb38d5defaaa9fd9a" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ADACAAABEABAAGAAAAAiAAAAIAABAAACAAAQDAAAAAA=</HashCode>
+      <FileName>Aggregates.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Prop60e6a86b6cdd466d8e0196b94c89921d" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

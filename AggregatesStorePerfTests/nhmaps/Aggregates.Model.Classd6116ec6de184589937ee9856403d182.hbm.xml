@@ -1,0 +1,53 @@
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" default-lazy="false">
+  <class xmlns="urn:nhibernate-mapping-2.2" name="Aggregates.Model.Classd6116ec6de184589937ee9856403d182, Aggregates.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" table="`Classd6116ec6de184589937ee9856403d182`">
+    <id name="Id" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Id" />
+      <generator class="assigned" />
+    </id>
+    <property name="Prop35b839bbc4d14c7f99ae662183f05656" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop35b839bbc4d14c7f99ae662183f05656" />
+    </property>
+    <property name="Prop0df38381b4b9427e99f9a2fdffb67e6d" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop0df38381b4b9427e99f9a2fdffb67e6d" />
+    </property>
+    <property name="Prop423eca0f155949068934e518b5419607" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop423eca0f155949068934e518b5419607" />
+    </property>
+    <property name="Prop7882fac16d584c99ad6282583c63c133" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop7882fac16d584c99ad6282583c63c133" />
+    </property>
+    <property name="Prope82ab00275f24f658c811be40c681c4c" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prope82ab00275f24f658c811be40c681c4c" />
+    </property>
+    <property name="Prop36cb91a291d04a4f873af2980adc72f4" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop36cb91a291d04a4f873af2980adc72f4" />
+    </property>
+    <property name="Prop1f23e4ffce2947b2a0e97b2c24b46cc8" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop1f23e4ffce2947b2a0e97b2c24b46cc8" />
+    </property>
+    <property name="Prop62469ea4f4c84e43a08ac3dcc190f41a" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop62469ea4f4c84e43a08ac3dcc190f41a" />
+    </property>
+    <property name="Propd5f5c0951d6244169097310077d0b1e7" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propd5f5c0951d6244169097310077d0b1e7" />
+    </property>
+    <property name="Prop34c5e3ebfd48434badb058b1cd490915" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop34c5e3ebfd48434badb058b1cd490915" />
+    </property>
+    <property name="Propedacfafdab5c4fe18971bacc999c7c22" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propedacfafdab5c4fe18971bacc999c7c22" />
+    </property>
+    <property name="Prop31137e0fad8f4db7ba5de350fc7db7d1" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop31137e0fad8f4db7ba5de350fc7db7d1" />
+    </property>
+    <property name="Prop173e18eb0a70455ebe22452d07a8b0fe" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop173e18eb0a70455ebe22452d07a8b0fe" />
+    </property>
+    <property name="Propc9fa3ff208774a08b0dee1e19435ea8b" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propc9fa3ff208774a08b0dee1e19435ea8b" />
+    </property>
+    <property name="Prop2ace448e385b4821ac15f2dc786ba6e0" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop2ace448e385b4821ac15f2dc786ba6e0" />
+    </property>
+  </class>
+</hibernate-mapping>

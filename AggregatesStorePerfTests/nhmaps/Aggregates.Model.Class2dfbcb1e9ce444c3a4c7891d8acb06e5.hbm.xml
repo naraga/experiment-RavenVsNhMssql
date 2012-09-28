@@ -1,0 +1,53 @@
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" default-lazy="false">
+  <class xmlns="urn:nhibernate-mapping-2.2" name="Aggregates.Model.Class2dfbcb1e9ce444c3a4c7891d8acb06e5, Aggregates.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" table="`Class2dfbcb1e9ce444c3a4c7891d8acb06e5`">
+    <id name="Id" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Id" />
+      <generator class="assigned" />
+    </id>
+    <property name="Prop44a7fd413b364f87a6d9c6f20037b96b" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop44a7fd413b364f87a6d9c6f20037b96b" />
+    </property>
+    <property name="Prop7cef55711f584efd8ddc4c1b053208fc" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop7cef55711f584efd8ddc4c1b053208fc" />
+    </property>
+    <property name="Prop606c238d05e34ae5b0e20531c5b7f5da" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop606c238d05e34ae5b0e20531c5b7f5da" />
+    </property>
+    <property name="Prop5f162a5ab7c148979190e690bac17b44" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop5f162a5ab7c148979190e690bac17b44" />
+    </property>
+    <property name="Propbb1313dd73a0418fa5693ef6ce8636dc" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propbb1313dd73a0418fa5693ef6ce8636dc" />
+    </property>
+    <property name="Propef8ff00353124d3fa0023286df829ea8" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propef8ff00353124d3fa0023286df829ea8" />
+    </property>
+    <property name="Propfa7e97d276374a37b75cd433bfa20c6d" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propfa7e97d276374a37b75cd433bfa20c6d" />
+    </property>
+    <property name="Prop411d6e86e5224b549923e9c4d100f66a" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop411d6e86e5224b549923e9c4d100f66a" />
+    </property>
+    <property name="Prop01c1c0d4be794d1783f08fb3be0699a6" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop01c1c0d4be794d1783f08fb3be0699a6" />
+    </property>
+    <property name="Propa06be81084ef497f99638aa47467eccb" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propa06be81084ef497f99638aa47467eccb" />
+    </property>
+    <property name="Prop7d92c895e261469a873cfcfcb9e86c40" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop7d92c895e261469a873cfcfcb9e86c40" />
+    </property>
+    <property name="Prop54687d345caa488eacb5ff93a8b3876d" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop54687d345caa488eacb5ff93a8b3876d" />
+    </property>
+    <property name="Propb5b91bf9dcd548618a30d3c1efa21215" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propb5b91bf9dcd548618a30d3c1efa21215" />
+    </property>
+    <property name="Prop4863e6206eb54d4d896baa62ccd41ed8" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop4863e6206eb54d4d896baa62ccd41ed8" />
+    </property>
+    <property name="Prop6981cc149c6b443ab1cf10dfd6550a4b" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop6981cc149c6b443ab1cf10dfd6550a4b" />
+    </property>
+  </class>
+</hibernate-mapping>

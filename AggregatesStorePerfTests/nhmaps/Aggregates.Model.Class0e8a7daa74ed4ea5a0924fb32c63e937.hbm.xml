@@ -1,0 +1,98 @@
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" default-lazy="false">
+  <class xmlns="urn:nhibernate-mapping-2.2" name="Aggregates.Model.Class0e8a7daa74ed4ea5a0924fb32c63e937, Aggregates.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" table="`Class0e8a7daa74ed4ea5a0924fb32c63e937`">
+    <id name="Id" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Id" />
+      <generator class="assigned" />
+    </id>
+    <property name="Prop8d0bfb7fa6bd4da9893909b12b3cb2f9" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop8d0bfb7fa6bd4da9893909b12b3cb2f9" />
+    </property>
+    <property name="Prop42527bb1e2514395b6c53216857c3a4a" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop42527bb1e2514395b6c53216857c3a4a" />
+    </property>
+    <property name="Prop056c889de6e74a8a8e6a9e191cb0aced" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop056c889de6e74a8a8e6a9e191cb0aced" />
+    </property>
+    <property name="Prop3342c8f1c3a54731b2c26367fd04d93e" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop3342c8f1c3a54731b2c26367fd04d93e" />
+    </property>
+    <property name="Prop7634b06d7fc6429e95984dc32dc100ac" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop7634b06d7fc6429e95984dc32dc100ac" />
+    </property>
+    <property name="Propae3c2b7144124f88a1ac9a51c0ceb19a" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propae3c2b7144124f88a1ac9a51c0ceb19a" />
+    </property>
+    <property name="Prop403a2dd6f9094b739b7c89a314518f53" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop403a2dd6f9094b739b7c89a314518f53" />
+    </property>
+    <property name="Prop8ecc87617aa847bb9a12b2f482ae4404" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop8ecc87617aa847bb9a12b2f482ae4404" />
+    </property>
+    <property name="Propff664fcc244c4a6dab642e88ce271125" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propff664fcc244c4a6dab642e88ce271125" />
+    </property>
+    <property name="Propd40d88fe966c4865813c73b88a205177" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propd40d88fe966c4865813c73b88a205177" />
+    </property>
+    <property name="Prop4f6ddbdcf926465fb2151094427a88a3" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop4f6ddbdcf926465fb2151094427a88a3" />
+    </property>
+    <property name="Prop379deac208d848518a9b88efeee03d71" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop379deac208d848518a9b88efeee03d71" />
+    </property>
+    <property name="Prop617f1a65a2e24b928ec459391d90aee8" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop617f1a65a2e24b928ec459391d90aee8" />
+    </property>
+    <property name="Propaf453a5a8cc7452db97b16e374cd9b27" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propaf453a5a8cc7452db97b16e374cd9b27" />
+    </property>
+    <property name="Prop0903dbd62d694393a9be7ee7f03d3b52" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop0903dbd62d694393a9be7ee7f03d3b52" />
+    </property>
+    <property name="Prop20a3cad516d34bbf9eba4a4e4fa3102d" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop20a3cad516d34bbf9eba4a4e4fa3102d" />
+    </property>
+    <property name="Propcad445fe2895448a914433d5f6582aa2" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propcad445fe2895448a914433d5f6582aa2" />
+    </property>
+    <property name="Prop01e5dbc555fd43e4b9683b98402df896" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop01e5dbc555fd43e4b9683b98402df896" />
+    </property>
+    <property name="Propcdfaffa4fa6243bf8b4b3732eadcce41" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propcdfaffa4fa6243bf8b4b3732eadcce41" />
+    </property>
+    <property name="Prop88f1b679bdaa4775bf2e6ed1514472f4" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop88f1b679bdaa4775bf2e6ed1514472f4" />
+    </property>
+    <property name="Prop9355729ad2ba4d4b93999f838746aad2" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop9355729ad2ba4d4b93999f838746aad2" />
+    </property>
+    <property name="Prop3676e26d8a9740c6b27fb1969bc43dff" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop3676e26d8a9740c6b27fb1969bc43dff" />
+    </property>
+    <property name="Prop359479b09d4f4efab464e11eece4a625" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop359479b09d4f4efab464e11eece4a625" />
+    </property>
+    <property name="Propc65e3fbe6d4e40d9a39cc5eeb1423884" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propc65e3fbe6d4e40d9a39cc5eeb1423884" />
+    </property>
+    <property name="Propb98fb51def30436594d0470b605df99e" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propb98fb51def30436594d0470b605df99e" />
+    </property>
+    <property name="Propd096ff21c86b41bd915a624eade15190" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propd096ff21c86b41bd915a624eade15190" />
+    </property>
+    <property name="Prop660bd95daa274dac81b39ddc02fe50fe" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop660bd95daa274dac81b39ddc02fe50fe" />
+    </property>
+    <property name="Prop78af6637e5be46b383f74204077a60d2" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop78af6637e5be46b383f74204077a60d2" />
+    </property>
+    <property name="Prop304fc5a2926445c4bb06993897314778" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop304fc5a2926445c4bb06993897314778" />
+    </property>
+    <property name="Prop80aba3e63def47339183fc94d2f82adb" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop80aba3e63def47339183fc94d2f82adb" />
+    </property>
+  </class>
+</hibernate-mapping>

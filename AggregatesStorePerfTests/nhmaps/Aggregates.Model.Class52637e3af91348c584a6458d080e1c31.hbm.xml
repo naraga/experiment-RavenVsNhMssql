@@ -1,0 +1,53 @@
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" default-lazy="false">
+  <class xmlns="urn:nhibernate-mapping-2.2" name="Aggregates.Model.Class52637e3af91348c584a6458d080e1c31, Aggregates.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" table="`Class52637e3af91348c584a6458d080e1c31`">
+    <id name="Id" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Id" />
+      <generator class="assigned" />
+    </id>
+    <property name="Propcfff0419e5954ebb906375b2862a81e2" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propcfff0419e5954ebb906375b2862a81e2" />
+    </property>
+    <property name="Propdeeaa7b5dc494d228bdda39cf6b85334" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propdeeaa7b5dc494d228bdda39cf6b85334" />
+    </property>
+    <property name="Prop60f017b55b20404ab69225c3b252cf53" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop60f017b55b20404ab69225c3b252cf53" />
+    </property>
+    <property name="Prop8dfbfcd7aeaa49698de8e6555aa72c9d" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop8dfbfcd7aeaa49698de8e6555aa72c9d" />
+    </property>
+    <property name="Prop17a5b9416d2a48239c91f86c8d969b3b" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop17a5b9416d2a48239c91f86c8d969b3b" />
+    </property>
+    <property name="Propa6e108d2fd0a4ab7a6069fb686fdcfd0" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propa6e108d2fd0a4ab7a6069fb686fdcfd0" />
+    </property>
+    <property name="Prop606e0a8c8efa44ba8aeab779ec113aad" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop606e0a8c8efa44ba8aeab779ec113aad" />
+    </property>
+    <property name="Prop2019165d8d64492f897efc4557253c7c" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop2019165d8d64492f897efc4557253c7c" />
+    </property>
+    <property name="Propb50bc9feac4f4cc68f92d439d9d235b8" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propb50bc9feac4f4cc68f92d439d9d235b8" />
+    </property>
+    <property name="Propf323cd6a7b0d455fb074608f1bb94a2b" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propf323cd6a7b0d455fb074608f1bb94a2b" />
+    </property>
+    <property name="Propc54cbd4d8e554ecbbbc21812fe0e9af6" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propc54cbd4d8e554ecbbbc21812fe0e9af6" />
+    </property>
+    <property name="Prop4a0d2c7f94274857b80103f1193f6ef4" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop4a0d2c7f94274857b80103f1193f6ef4" />
+    </property>
+    <property name="Prop93919d6a998949c8a4819c5e1c018bae" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop93919d6a998949c8a4819c5e1c018bae" />
+    </property>
+    <property name="Propfee321b66a7f4e0c87a980ded999ad3f" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propfee321b66a7f4e0c87a980ded999ad3f" />
+    </property>
+    <property name="Propbc45333c9a1346e8aad0418eb37e5939" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propbc45333c9a1346e8aad0418eb37e5939" />
+    </property>
+  </class>
+</hibernate-mapping>

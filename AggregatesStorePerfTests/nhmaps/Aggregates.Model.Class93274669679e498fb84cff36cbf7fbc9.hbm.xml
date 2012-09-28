@@ -1,0 +1,53 @@
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" default-lazy="false">
+  <class xmlns="urn:nhibernate-mapping-2.2" name="Aggregates.Model.Class93274669679e498fb84cff36cbf7fbc9, Aggregates.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" table="`Class93274669679e498fb84cff36cbf7fbc9`">
+    <id name="Id" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Id" />
+      <generator class="assigned" />
+    </id>
+    <property name="Propd7411bfebaf04d4cacdbff16d3d3e749" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propd7411bfebaf04d4cacdbff16d3d3e749" />
+    </property>
+    <property name="Prop19aa02326d5e4599a5380b486575d4dc" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop19aa02326d5e4599a5380b486575d4dc" />
+    </property>
+    <property name="Propa672adb05f8f405ca136d724a2da8a46" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propa672adb05f8f405ca136d724a2da8a46" />
+    </property>
+    <property name="Prop87d8d808a17f4eedaf36b850142700b9" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop87d8d808a17f4eedaf36b850142700b9" />
+    </property>
+    <property name="Propa105b749828849768a4a11681c29364f" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propa105b749828849768a4a11681c29364f" />
+    </property>
+    <property name="Prop540b13a86bc64a918314d0236287a4af" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop540b13a86bc64a918314d0236287a4af" />
+    </property>
+    <property name="Prop820349a7ae41420298def3b3110b2fc6" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop820349a7ae41420298def3b3110b2fc6" />
+    </property>
+    <property name="Propf3527103fefa483094de3d9a40844634" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propf3527103fefa483094de3d9a40844634" />
+    </property>
+    <property name="Propb12396bf50384a97971828dbc5f5308b" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propb12396bf50384a97971828dbc5f5308b" />
+    </property>
+    <property name="Prop20f0613808814364bac6895fa26087d7" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop20f0613808814364bac6895fa26087d7" />
+    </property>
+    <property name="Propd2eb852859424937bf4d92cb78f2a1a2" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propd2eb852859424937bf4d92cb78f2a1a2" />
+    </property>
+    <property name="Prop0166c454792448729c0177fa7410442f" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop0166c454792448729c0177fa7410442f" />
+    </property>
+    <property name="Prop008ea3fc077f4dcdb99ca1566ed12b1e" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop008ea3fc077f4dcdb99ca1566ed12b1e" />
+    </property>
+    <property name="Propfccdab8f41bc4885912d858f2c434afc" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Propfccdab8f41bc4885912d858f2c434afc" />
+    </property>
+    <property name="Prop2091da7ab51d4013848a96c8d00c8265" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Prop2091da7ab51d4013848a96c8d00c8265" />
+    </property>
+  </class>
+</hibernate-mapping>
